@@ -14,3 +14,4 @@ let vysledek = jeZima || jeNadNulou;
 
 
 
+
