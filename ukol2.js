@@ -22,9 +22,13 @@ if (vek >= 18 ) {
 } 
 
 else {
-  cosole.log( " Vaše jméno je " + jmeno + " je vám " + let + " a tak musíte počkat ještě " + ridicak + " než budete moci řídit auto. ")
+  console.log( " Vaše jméno je " + jmeno + " je vám " + let + " a tak musíte počkat ještě " + ridicak + " než budete moci řídit auto. ")
 }
 
 
 /*2) Nechte uživatele zadat 3 čísla a určete největší z nich - výsledek vypište do konzole ve formátu "Největší číslo je A: 37".*/
+
+
+
+
 
