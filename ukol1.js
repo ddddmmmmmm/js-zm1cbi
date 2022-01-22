@@ -7,11 +7,13 @@ console.log('nazdar');
 console.log('ahoj');
 
 
-let jmeno ='petra';
+let jmeno ="petra";
 let vek = 34;
 let vaha = 65;
 let vyska = 1.67;
 let BMI = vaha / (vyska*vyska); //VAHA/VYSKA**2
-console.log(BMI);
-console.log('jmenuji se'+);
+
+console.log ("jmenuji se"+ jmeno + "je mi" + vek + "vazim" + vaha + 'merim');
+
+
 
