@@ -11,7 +11,7 @@ let jmeno ='petra';
 let vek = 34;
 let vaha = 65;
 let vyska = 1.67;
-let BMI = vaha / (vyska*vyska);
-console.log('BMI');
-
+let BMI = vaha / (vyska*vyska); //VAHA/VYSKA**2
+console.log(BMI);
+console.log('jmenuji se'+);
 
