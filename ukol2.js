@@ -1,1 +1,0 @@
-import './ukol.2.js';
